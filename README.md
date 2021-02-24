@@ -45,6 +45,6 @@ Link to itch.io
 
 ### Pong game
 
-![Screenshot of my pong game](/images/pong.jpg)
+![Screenshot of my pong game](/images/pong.png)
 
 somethingsomethingblabla
