@@ -48,6 +48,14 @@ Based on the [HTML Game Example of W3schools.](https://www.w3schools.com/graphic
 
 [Link to itch.io page](https://termilator.itch.io/mars-attacks)
 
+### WordPress page for Freethinkers of Lahti
+
+![Screenshot of the page](/images/vaparitSivuScreenShot.jpg)
+
+A web page for the Freethinkers of Lahti, build with GeneratePress on WordPress.
+
+[Link to page](https://vapaa-ajattelijat.fi/lahti/)
+
 
 ## School projects
 
