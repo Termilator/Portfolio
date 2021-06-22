@@ -10,7 +10,6 @@ a better programmer and learning all that I can about the industry.
 Some of my other interests are visual arts (mainly drawing and painting but some digital stuff too),
 science, games and reading.
 
-I am currently looking for work/internship for summer 2021.
 
 ## Personal projects
 
