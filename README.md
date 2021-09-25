@@ -15,6 +15,29 @@ science, games and reading.
 
 ## Personal projects
 
+### The Maze
+
+![Screenshot of the start menu of the game](/images/alkuvalikko.png)
+
+The Maze is a one level game made with Unity. The goal is to get through the maze as fast as possible. A timer runs in the upper corner and stops when the player gets out of the maze, and the final time is shown. The game scene also includes options to restart the level and to quit the game. When the player presser 'r', the timer is set to 0 and the player is moved to the beginning of the maze. Pressing 'q' takes the player back to the start menu.
+
+The maze is about 300x200 meters big. It has a terrain and impenetrable walls made from basic cubes. Some details, like the eyes, tentacles and map pieces are hand made by me using Gimp and Blender. Other details, such as skeletons, the headless statue, vegetation and most textures (walls, ground, sky) are downloaded from the Unity asset store. All scripts are written by me, including the player and camera movement, the gameplay itself, the eyes following the player and the tentacle movement.
+
+![Screenshot of the game area](/images/ylakuva.png)
+![Screenshot of the game](/images/huone.png)
+Tähän kuva silmähuoneesta.
+
+The maze design is inspired by the legendary hedgemaze in The Shining and is hand drawn by me.
+
+Tähän pienennetty labyrintin kartta.
+
+The purpose of this project was to get familiar with Unity 3d. I had a pretty clear vision of what I wanted to make, and then just went with it. A lot of the solutions were found through trial and error and I'm sure a lot of it could have been done way more easily, but easy wasn't what I wanted. I wanted to learn. And I did.
+
+A video of the game can be watched on Youtube:
+
+
+
+
 ### Binary clock
 
 ![Screenshot of my binary clock](/images/Binaryclock.jpg)
