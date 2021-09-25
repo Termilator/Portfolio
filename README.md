@@ -25,18 +25,15 @@ The maze is about 300x200 meters big. It has a terrain and impenetrable walls ma
 
 ![Screenshot of the game area](/images/ylakuva.png)
 ![Screenshot of the game](/images/huone.png)
-Tähän kuva silmähuoneesta.
+![Screenshot of the eye room](/images/eyeroom.png)
 
 The maze design is inspired by the legendary hedgemaze in The Shining and is hand drawn by me.
 
-Tähän pienennetty labyrintin kartta.
+![The map of the maze](/images/labyrinttikartta.png)
 
 The purpose of this project was to get familiar with Unity 3d. I had a pretty clear vision of what I wanted to make, and then just went with it. A lot of the solutions were found through trial and error and I'm sure a lot of it could have been done way more easily, but easy wasn't what I wanted. I wanted to learn. And I did.
 
-A video of the game can be watched on Youtube:
-
-
-
+[A video of the playthrough on Youtube](https://youtu.be/OAxZa-FClYo)
 
 ### Binary clock
 
