@@ -19,7 +19,7 @@ science, games and reading.
 
 ![Screenshot of the start menu of the game](/images/alkuvalikko.png)
 
-The Maze is a one level game made with Unity. The goal is to get through the maze as fast as possible. A timer runs in the upper corner and stops when the player gets out of the maze, and the final time is shown. The game scene also includes options to restart the level and to quit the game. When the player presser 'r', the timer is set to 0 and the player is moved to the beginning of the maze. Pressing 'q' takes the player back to the start menu.
+The Maze is a one level game made with Unity. The goal is to get through the maze as fast as possible. A timer runs in the upper corner and stops when the player gets out of the maze, and the final time is shown. The game scene also includes options to restart the level and to quit the game. When the player presses 'r', the timer is set to 0 and the player is moved to the beginning of the maze. Pressing 'q' takes the player back to the start menu.
 
 The maze is about 300x200 meters big. It has a terrain and impenetrable walls made from basic cubes. Some details, like the eyes, tentacles and map pieces are hand made by me using Gimp and Blender. Other details, such as skeletons, the headless statue, vegetation and most textures (walls, ground, sky) are downloaded from the Unity asset store. All scripts are written by me, including the player and camera movement, the gameplay itself, the eyes following the player and the tentacle movement.
 
