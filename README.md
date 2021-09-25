@@ -2,6 +2,8 @@
 
 ## About me
 
+![A picture of Termilator](/images/termilaattori.png)
+
 Hi! My name is Mila, I'm a second year student of information and communications
 technology at LAB University of Applied Sciences in Lahti, Finland.
 I am going to specialize in software development and am working hard on becoming
