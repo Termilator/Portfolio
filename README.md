@@ -80,6 +80,13 @@ A web page for the Freethinkers of Lahti, build with GeneratePress on WordPress.
 
 ## School projects
 
+### Work in progress: Unity game
+
+After making "The Maze" on my own, I started a game design course in school, focusing on Unity. In this course I've learned a lot about the possibilities of Unity and how to make enviroments and game mechanics. The big project of the course is to make a game area with an object collecting game. My project will have different kinds of nature enviroments, sound effects and background music, animations, particle effects, buildings, 3rd person controls, functional UI and an objective of collecting all the game objects (possibly levitating fruits or coins) within a time limit. The project uses a lot of assets from the asset store, so unlike in The Maze, everything is not made from scratch.
+
+This project will be completed during October 2021.
+
+
 ### JavaScript Adventure game
 
 ![Screenshot of my adventure game](/images/Seikkailupeli.jpg)
