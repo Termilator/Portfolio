@@ -80,17 +80,21 @@ A web page for the Freethinkers of Lahti, build with GeneratePress on WordPress.
 
 ## School projects
 
-### Work in progress: Unity game
+### Unity game: Shark Valley
 
-![Screenshot of the unity game](/images/game1.png)
+![Screenshot of the unity game](/images/house.png)
 
-After making "The Maze" on my own, I started a game design course in school, focusing on Unity. In this course I've learned a lot about the possibilities of Unity and how to make enviroments and game mechanics. The big project of the course is to make a game area with an object collecting game. My project will have different kinds of nature enviroments, sound effects and background music, animations, particle effects, buildings, 3rd person controls, functional UI and an objective of collecting all the game objects (possibly levitating fruits or coins) within a time limit. The project uses a lot of assets from the asset store, so unlike in The Maze, most elements are not made from scratch.
+After making "The Maze" on my own, I started a game design course in school, focusing on Unity. In this course I've learned a lot about the possibilities of Unity and how to make enviroments and game mechanics. The big project of the course was to make a game area with an object collecting game. 
+The finished project has different kinds of nature enviroments (forest, desert, lake etc.), sound effects (birds singing in forests, wind howling in the desert, water splashing), animations (a swimming shark and an elevator), particle effects (sandstorm and fire), buildings, props, 3rd person controls, functional UI and an objective of collecting all the floating coins as fast as possible within a time limit. The best time is recorded and displayed in the main menu, and can be erased.
 
-![Game area from above in editor](/images/worldfromabove.png)
+![Screenshot of the unity game](/images/lake.png)
+![Game area from above in editor](/images/map.png)
 
-![Screenshot of the unity game](/images/game2.png)
+The project uses a lot of assets from the asset store, so unlike in The Maze, many of the elements aren't made from scratch. Nevertheless, this was a great learning experience into the possibilities of Unity.
 
-This project will be completed during October 2021.
+![Screenshot of the unity game](/images/bridge.png)
+![Screenshot of the unity game](/images/island.png)
+![Screenshot of the unity game](/images/desert.png)
 
 
 ### JavaScript Adventure game
