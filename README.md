@@ -6,10 +6,10 @@
 
 Hi! My name is Mila, I'm a second year student of information and communications
 technology at LAB University of Applied Sciences in Lahti, Finland.
-I am going to specialize in software development and am working hard on becoming
+I am going to specialize in software and media technologies and am working hard on becoming
 a better programmer and learning all that I can about the industry.
 
-Some of my other interests are visual arts (mainly drawing and painting but some digital stuff too),
+Some of my other interests are visual arts (drawing, painting, 2d and 3d digital art),
 science, games and reading.
 
 
