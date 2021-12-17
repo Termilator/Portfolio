@@ -80,6 +80,29 @@ A web page for the Freethinkers of Lahti, build with GeneratePress on WordPress.
 
 ## School projects
 
+### Unity game: Trouble At The Library (group project)
+
+![Screenshot of game menu](/images/TLMenu1S.png)
+
+Trouble At The Library was made for a course assignment, which was to make a game for the library of Mäntyharju. The customer wished for the game to have something to do with music, and possibly to be educational. I'm not sure what our game would teach children, but at least it's a whole lot of fun to play. The story of the game is that a group of evil robots from Mars have taken over a local library, and it's up to the player to defeat them. The robots' only weakness is music, so the player has to make their way to the librarys music room and play a loud song on a piano. To get there, they have to sneak around the library and collect notes. Flying robot guards patrol the area, and if they catch the player, they'll be thrown back to one of three starting points. 
+
+![Screenshot of game menu](/images/TLStoryS.png)
+
+![Screenshot of game menu](/images/TLGame1S.png)
+
+![Screenshot of game menu](/images/TLGameAlertS.png)
+
+After collecting all the notes a door to a boss fight opens. The boss is an angry big robot that throws cannonballs at the player. If the player is hit, they lose some points and the robots rage meter goes down. When the player avoids a hit, the robot gets angrier and the rage meter goes up. When the rage meter is full, the robot explodes with anger and a door to the music room opens.
+
+![Screenshot of game menu](/images/TLGame5S.png)
+
+When the player approaches a piano in the music room, the scene changes to a piano game, where the player has to play a song (Fur Elise by Beethoven) following the color instructions. When the song is succesfully played, the library is freed.
+
+![Screenshot of game menu](/images/Pianogame2S.png)
+
+There were seven people in our project group, and there was a lot of work for everyone. Many of the 3d game objects were made by ourselves, as well as all the graphics and scripting. My main role was to bring different elements together in Unity and programming the enemies and basic game logic (the pick ups, scoring, boss fight, opening doors etc.) I also did most of the 2d graphics (game logo, story scene, game over scene.) This was a big project, but we got it done on time and I'm very happy with the result. I learned so much about programming and how to work with Unity. This was also the first time I did something like this with a group of people, which was both challenging and rewarding. I feel like everyone got to use their individual talents but also got to learn new things.
+
+
 ### Unity game: Shark Valley
 
 ![Screenshot of the unity game](/images/house.png)
