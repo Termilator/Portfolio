@@ -119,6 +119,14 @@ The project uses a lot of assets from the asset store, so unlike in The Maze, ma
 ![Screenshot of the unity game](/images/island.png)
 ![Screenshot of the unity game](/images/desert.png)
 
+### React Native project: Movie App
+
+The React Native course included many kinds of assignments, such as simple games, a map application, a to do-list, weather applications etc. But my favourite project was this movie application, because it was very challenging but also rewarding when I completed it. I learned a lot about React Native when making it. This was the task that really got me understanding how to use "hooks" and navigate between screens. 
+
+The application fetches current movies playing in theaters from the movie database (themoviedb.org) and displays the as a list, with start of the movies description and a picture of the movies poster. When user taps on a title, the movies details are shown. If the movie data includes a trailer, it can be watched in full screen on a youtube player.
+
+![Screenshot of the movie application](/images/MoviesApp.png)
+
 
 ### JavaScript Adventure game
 
