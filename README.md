@@ -82,12 +82,20 @@ A web page for the Freethinkers of Lahti, build with GeneratePress on WordPress.
 
 ### Unity game: shy ghost
 
+![Game title](/images/PortfKansi.png)
+
 Shy ghost was another course assignment, without much other requirements than that it has to be in 2D, have both desktop and mobile versions and have some kind of scoring system and basic game mechanics. I chose to make this game alone, since I wanted to learn more about several things I hadn't done before. These things included 2D graphics, animations and lightning. I got a small glimpse of these in a game jam I participated in a couple of months before this, and wanted to try them myself. 
+
+![Screenshot of the game](/images/PortfHuone.png)
 
 The objective of the game is to turn on all the lights in a dark mansion, while avoiding some enemies walking around the hallways. The desktop version is played with a keyboard. The mobile version has a separate UI layer with buttons to move and pause the game.
 
-The desktop version can be played online here: https://termilator.itch.io/shy-ghost
-A video of the game here: https://youtu.be/ZW5gYhN_jhk
+![Screenshot of the game](/images/PortfCat.png)
+
+The desktop version can be played online on itch.io [here.](https://termilator.itch.io/shy-ghost)
+A video of the game in [youtube.](https://youtu.be/ZW5gYhN_jhk)
+
+[Link to itch.io](https://termilator.itch.io/talvikin-seikkailu)
 
 ### Unity game: Trouble At The Library (group project)
 
