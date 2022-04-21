@@ -4,7 +4,7 @@
 
 ![A picture of Termilator](/images/termilaattori.png)
 
-Hi! My name is Mila, I'm a second year student of information and communications
+Hi! My name is Mila, I'm a third year student of information and communications
 technology at LAB University of Applied Sciences in Lahti, Finland.
 I am going to specialize in software and media technologies and am working hard on becoming
 a better programmer and learning all that I can about the industry.
@@ -79,6 +79,15 @@ A web page for the Freethinkers of Lahti, build with GeneratePress on WordPress.
 
 
 ## School projects
+
+### Unity game: shy ghost
+
+Shy ghost was another course assignment, without much other requirements than that it has to be in 2D, have both desktop and mobile versions and have some kind of scoring system and basic game mechanics. I chose to make this game alone, since I wanted to learn more about several things I hadn't done before. These things included 2D graphics, animations and lightning. I got a small glimpse of these in a game jam I participated in a couple of months before this, and wanted to try them myself. 
+
+The objective of the game is to turn on all the lights in a dark mansion, while avoiding some enemies walking around the hallways. The desktop version is played with a keyboard. The mobile version has a separate UI layer with buttons to move and pause the game.
+
+The desktop version can be played online here: https://termilator.itch.io/shy-ghost
+A video of the game here: https://youtu.be/ZW5gYhN_jhk
 
 ### Unity game: Trouble At The Library (group project)
 
