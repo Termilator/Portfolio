@@ -94,8 +94,7 @@ The objective of the game is to turn on all the lights in a dark mansion, while 
 
 The mobile version has a separate UI layer with buttons to move and pause the game.
 
-![Image of Shyghost on mobile](/images/ShyghostMobile1.jpg) 
-![Screenshot of Shyghost mobile UI](/images/ShyghostMobile2.jpg)
+![Image of Shyghost on mobile](/images/ShyghostMobile1.jpg) ![Screenshot of Shyghost mobile UI](/images/ShyghostMobile2.png)
 
 The desktop version can be played online on itch.io [here.](https://termilator.itch.io/shy-ghost)
 A video of the game in [youtube.](https://youtu.be/ZW5gYhN_jhk)
