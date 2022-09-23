@@ -15,6 +15,14 @@ science, games, reading, and staying up 48 hours for a game jam.
 
 ## Personal projects
 
+### Work in progress: "A clever name for a cat game"
+
+![Image of work in progress cat game](/images/KissapeliDemo1.png)
+
+A personal 2d platformer game project, where you get to play as the amazing hero cat Mister Erkki. Your objective is to cheer up your depressed human by brining them all the best stuff (according to Mister Erkki), such as a super ball, toy mouse and snacks, before their depression bar reaches the top. You can lower the depression bar by kneading your human, as well as by brining the items as fast as you can.
+
+I will be updating this description as the project progresses.
+
 ### The Maze
 
 ![Screenshot of the start menu of the game](/images/alkuvalikko.png)
