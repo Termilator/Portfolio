@@ -88,9 +88,13 @@ Shy ghost was another course assignment, without much other requirements than th
 
 ![Screenshot of the game](/images/PortfHuone.png)
 
-The objective of the game is to turn on all the lights in a dark mansion, while avoiding some enemies walking around the hallways. The desktop version is played with a keyboard. The mobile version has a separate UI layer with buttons to move and pause the game.
+The objective of the game is to turn on all the lights in a dark mansion, while avoiding some enemies walking around the hallways. The desktop version is played with a keyboard. 
 
 ![Screenshot of the game](/images/PortfCat.png)
+
+The mobile version has a separate UI layer with buttons to move and pause the game.
+
+![Image of Shyghost on mobile](/images/ShyghostMobile1.jpg) ![Screenshot of Shyghost mobile UI](/images/ShyghostMobile2.jpg)
 
 The desktop version can be played online on itch.io [here.](https://termilator.itch.io/shy-ghost)
 A video of the game in [youtube.](https://youtu.be/ZW5gYhN_jhk)
