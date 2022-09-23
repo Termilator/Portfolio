@@ -10,7 +10,7 @@ I am going to specialize in software and media technologies and am working hard 
 a better programmer and learning all that I can about the industry.
 
 Some of my other interests are visual arts (drawing, painting, 2d and 3d digital art),
-science, games and reading.
+science, games, reading, and staying up 48 hours for a game jam.
 
 
 ## Personal projects
