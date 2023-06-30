@@ -4,10 +4,7 @@
 
 ![A picture of Termilator](/images/termilaattori.png)
 
-Hi! My name is Mila, I'm a third year student of information and communications
-technology at LAB University of Applied Sciences in Lahti, Finland.
-I am going to specialize in software and media technologies and am working hard on becoming
-a better programmer and learning all that I can about the industry.
+Hi! My name is Mila. I graduated from LAB University of Applied Sciences as a bachelor of engineering in 2023, specializing in software and media technologies. I work in software development, and in my free time try to work on some personal projects for fun and learning purposes.
 
 Some of my other interests are visual arts (drawing, painting, 2d and 3d digital art),
 science, games, reading, and staying up 48 hours for a game jam.
